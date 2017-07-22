@@ -20,6 +20,6 @@ npm run build --report
 ```
 项目图片展示
 
-![](http://www.aliios.com/content/images/2017/07/home.gif = 300px)
+<img src="http://www.aliios.com/content/images/2017/07/home.gif" width="200px">
 
 ![](http://www.aliios.com/content/images/2017/07/--.gif = 300px)
