@@ -20,6 +20,8 @@ npm run build --report
 ```
 项目图片展示
 
-![](http://www.aliios.com/content/images/2017/07/home.gif) &nbsp;&nbsp;![](http://www.aliios.com/content/images/2017/07/YH.gif)
+![](http://www.aliios.com/content/images/2017/07/home.gif)
+
+![](http://www.aliios.com/content/images/2017/07/YH.gif)
 
 ![](http://www.aliios.com/content/images/2017/07/--.gif)
