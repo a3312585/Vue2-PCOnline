@@ -20,6 +20,6 @@ npm run build --report
 ```
 项目图片展示
 
-<img src="http://www.aliios.com/content/images/2017/07/home.gif" width="200px">
+<img src="http://www.aliios.com/content/images/2017/07/home.gif" width="200px" style="display: inline-block;">
 
-<img src="http://www.aliios.com/content/images/2017/07/--.gif" width="200px">
+<img src="http://www.aliios.com/content/images/2017/07/--.gif" width="200px" style="display: inline-block;">
