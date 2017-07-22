@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>pconline</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no">  
+</head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
+
+<script type="text/javascript">
+    window.addEventListener("resize",setSize,false);
+    function setSize(){
+        var oHtml = document.documentElement;
+        var oBody = document.getElementsByTagName("body")[0];
+        var oWidth = window.innerWidth;
+        if (oWidth<=700) {
+        	oHtml.style.fontSize =oWidth/22+"px";
+        }else{
+        	oHtml.style.fontSize =oWidth/32+"px";
+        }
+    }
+    setSize()
+</script>

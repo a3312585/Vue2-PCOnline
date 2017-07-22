@@ -1,0 +1,71 @@
+{
+	"focus": [
+				{
+					"createAt": 1451037182000,
+					"focusImageId": 571,
+					"focusTitle": "数码券",
+					"imageUrl": "https://img.pconline.com.cn/images/upload/upc/tx/pc_best/1705/27/c25/48247062_1495870469897.jpg",
+					"isOfficialPurchasing": 0,
+					"positionIndex": 0,
+					"sectionType": 0,
+					"seq": 1,
+					"topicId": 949100,
+					"typeId": 0,
+					"url": ""
+				},
+				{
+					"createAt": 1458265327000,
+					"focusImageId": 591,
+					"focusTitle": "隐藏优惠券",
+					"imageUrl": "https://img.pconline.com.cn/images/upload/upc/tx/pc_best/1611/30/c47/30935605_1480486469754.jpg",
+					"isOfficialPurchasing": 0,
+					"positionIndex": 0,
+					"sectionType": 0,
+					"seq": 2,
+					"topicId": 522086,
+					"typeId": 0,
+					"url": ""
+				},
+				{
+					"createAt": 1441696283000,
+					"focusImageId": 512,
+					"focusTitle": "母婴199-100",
+					"imageUrl": "https://img.pconline.com.cn/images/upload/upc/tx/pc_best/1705/18/c45/47355268_1495102400787.jpg",
+					"isOfficialPurchasing": 0,
+					"positionIndex": 0,
+					"sectionType": 0,
+					"seq": 3,
+					"topicId": 936493,
+					"typeId": 0,
+					"url": ""
+				},
+				{
+					"createAt": 1448425382000,
+					"focusImageId": 551,
+					"focusTitle": "儿童节图书",
+					"imageUrl": "https://img.pconline.com.cn/images/upload/upc/tx/pc_best/1705/15/c28/47018152_1494832580941.jpg",
+					"isOfficialPurchasing": 0,
+					"positionIndex": 0,
+					"sectionType": 0,
+					"seq": 4,
+					"topicId": 929560,
+					"typeId": 0,
+					"url": ""
+				},
+				{
+					"createAt": 1460620191000,
+					"focusImageId": 602,
+					"focusTitle": "亚马逊粽子",
+					"imageUrl": "https://img.pconline.com.cn/images/upload/upc/tx/pc_best/1705/22/c28/47735171_1495437114215.jpg",
+					"isOfficialPurchasing": 0,
+					"positionIndex": 0,
+					"sectionType": 0,
+					"seq": 5,
+					"topicId": 942519,
+					"typeId": 0,
+					"url": ""
+				}
+	],
+	"status": 1,
+	"msg": "请求成功"
+}
