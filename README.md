@@ -18,7 +18,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-项目图片展示
+项目图片展示(建议使用谷歌浏览器打开当前页面,其他浏览器查看图片会有闪烁的效果)
 
 <div style="width: 100%; display: flex;justify-content: space-between;">
 <img src="http://www.aliios.com/content/images/2017/07/home.gif" width="200px" style="display: inline-block;">
