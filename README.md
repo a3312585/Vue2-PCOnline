@@ -22,6 +22,4 @@ npm run build --report
 
 ![](http://www.aliios.com/content/images/2017/07/home.gif)
 
-![](http://www.aliios.com/content/images/2017/07/YH.gif)
-
 ![](http://www.aliios.com/content/images/2017/07/--.gif)
