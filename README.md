@@ -22,4 +22,4 @@ npm run build --report
 
 <img src="http://www.aliios.com/content/images/2017/07/home.gif" width="200px">
 
-![](http://www.aliios.com/content/images/2017/07/--.gif = 300px)
+<img src="http://www.aliios.com/content/images/2017/07/--.gif" width="200px">
